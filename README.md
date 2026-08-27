@@ -1,4 +1,4 @@
-# USB Killer v.Pro - সম্পূর্ণ সার্কিট ডায়াগ্রাম (শুধুমাত্র শিক্ষাগত বিশ্লেষণের জন্য)
+# USB Killer
 
 ⚠️ Research Baesd Prototype 
 
